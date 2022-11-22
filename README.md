@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Not-csTimer is a timing program designed for Rubik's cube solvers, it provides:
+• Varieties of solver, such as 2x2x2 face, Skewb Face, SQ1 shape, for learning or training these sub steps.
